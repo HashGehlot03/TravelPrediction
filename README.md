@@ -11,11 +11,10 @@ This is the prediction based web application ,which will predict that customer w
 
 
 ## First have a look at our dataset
-    [tourism.csv](https://github.com/HashGehlot03/TravelPrediction/blob/main/tourism.csv)
+    tourism.csv
 
 ## After a view of dataset
-    [travelpackagepurchase.py](https://github.com/HashGehlot03/TravelPrediction/blob/main/travelpackagepurchase.py)
-
+    travelpackagepurchase.py
     This file has all the source of how we analyze the data 
     (data preprocessing) ,how we select the 
     features(Featue selection and engineering) and 
@@ -24,9 +23,7 @@ This is the prediction based web application ,which will predict that customer w
 
 ##  Now lets build the front end of model using streamlit
 ###   Have a look at our file 
-      [modified_df.csv](
-
-https://github.com/HashGehlot03/TravelPrediction/blob/main/modified_df.csv)
+      modified_df.csv
       This is the dataset which has:-
       1. No outliers
       2. Only essential features
@@ -35,7 +32,7 @@ https://github.com/HashGehlot03/TravelPrediction/blob/main/modified_df.csv)
 
 
 ### Check the main file i.e.
-    [travelapp.py](https://github.com/HashGehlot03/TravelPrediction/blob/main/travelapp.py)
+    travelapp.py 
 
 
     
