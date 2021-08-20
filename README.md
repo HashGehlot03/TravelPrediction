@@ -11,7 +11,7 @@ This is the prediction based web application ,which will predict that customer w
 
 
 ## First have a look at our dataset
-    [tourism.csv](https://github.com/HashGehlot03/TravelPrediction/tourism.csv)  
+    tourism.csv
 
 ## After a view of dataset
     travelpackagepurchase.py
